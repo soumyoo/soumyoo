@@ -1,5 +1,5 @@
-# 💫 About Me:
-Developing proficiency in Full-stack
+# 💫 Hi, I'm Soumyojit Choudhury from India.
+Currently developing my proficiency in Full-stack
 
 
 ## 🌐 Socials:
