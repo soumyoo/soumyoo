@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Soumyojit Choudhury from India.
+# 🧑‍💻 Hi, I'm Soumyojit Choudhury from India.
 Currently developing my proficiency in Full-stack
 
 
