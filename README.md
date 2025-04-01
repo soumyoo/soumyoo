@@ -1,7 +1,6 @@
 # 🧑‍💻 Hi, I'm Soumyojit Choudhury from India.
 Currently developing my proficiency in Full-stack
 
-<div align="center">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/soumyo_o/) 
@@ -17,9 +16,14 @@ Currently developing my proficiency in Full-stack
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 
 # 📊 GitHub Stats:
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=soumyoo&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=soumyoo&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyoo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyoo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soumyoo&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
@@ -39,6 +43,4 @@ Currently developing my proficiency in Full-stack
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumyoo/soumyoo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/soumyoo/soumyoo/output/github-snake.svg" />
 </picture>
-
-</div>
 
