@@ -1,5 +1,5 @@
 # 🧑‍💻 Hi, I'm Soumyojit Choudhury from India.
-Currently developing my proficiency in Full-stack 
+Currently developing my proficiency in Full-stack <br/>
 Contact: soumyoocontact@gmail.com
 
 
